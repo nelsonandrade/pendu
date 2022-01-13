@@ -1,0 +1,18 @@
+#pendu {
+    width: 700px;
+    height: 300px;
+   /* border: 1px solid rgb(3, 21, 102);
+    border-radius: 8px;
+    box-shadow:2px 5px 10px rgb(14, 11, 190);*/
+    margin:50px 250px;
+   /*oo padding: auto;
+    background-color: rgb(255, 255, 255);*/
+}
+
+h1{
+    text-align: center;
+    color: blue;
+}
+body{
+    background-image: linear-gradient(90deg, transparent 0%, transparent 10%, #EA858A 10%, #EA858A calc(10% + 3px), transparent calc(10% + 3px), transparent 100%), linear-gradient(180deg, white 10%, transparent 10%), repeating-linear-gradient(180deg, #91C1E1 0px, #91C1E1 2px, transparent 2px, transparent 38px), linear-gradient(white,white);
+}
